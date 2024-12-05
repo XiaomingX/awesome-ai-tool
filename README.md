@@ -1,7 +1,6 @@
-# 精选AI工具 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# 精选AI工具
 
 > 精心整理的人工智能顶级工具列表  
-> 欢迎贡献并免费提交你的AI工具到 [altern.ai](https://altern.ai/?utm_source=awesomeaitools)  
 
 欢迎来到 **精选AI工具**！这里有我精心整理的AI工具列表，包括顶级的生成式AI工具和大型语言模型（LLMs）。想要贡献或推广你的产品？提交一个PR到此仓库即可——完全免费！加入我们的AI产品列表，一起走在创新的最前沿。
 
