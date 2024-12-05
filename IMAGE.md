@@ -42,15 +42,3 @@
 
 - **[TinyPNG](https://tinypng.com/)** - 基于AI的图片压缩工具，可在保持高画质的同时大幅减小文件大小。
 - **[Squoosh](https://squoosh.app/)** - 开源的AI图片压缩工具，可减小图片体积且不损失可见画质。
-
----
-
-## 参与贡献
-
-欢迎大家贡献内容！请参考[贡献指南](CONTRIBUTING.md)添加新工具或改进描述。
-
----
-
-## 版权声明
-
-[MIT](LICENSE)
