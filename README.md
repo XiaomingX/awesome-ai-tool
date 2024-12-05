@@ -4,23 +4,6 @@
 
 欢迎来到 **精选AI工具**！这里有我精心整理的AI工具列表，包括顶级的生成式AI工具和大型语言模型（LLMs）。想要贡献或推广你的产品？提交一个PR到此仓库即可——完全免费！加入我们的AI产品列表，一起走在创新的最前沿。
 
-我们会定期通过 [Altern Newsletter](http://newsletter.altern.ai) 更新此仓库内容。点击 [订阅](http://newsletter.altern.ai)，获取最新AI资讯并发现最佳AI工具！
-
-## 目录
-
-- [🌟 编辑推荐](#editors-choice)  
-- [📝 文本生成AI工具](#text)  
-- [👩‍💻 代码生成AI工具](#code)  
-- [🖼️ 图像生成AI工具](#image)  
-- [📽️ 视频生成AI工具](#video)  
-- [🎶 音频生成AI工具](#audio)  
-  - [语音克隆](#ai-voice-cloning)  
-  - [音乐生成](#ai-music-generation)  
-- [🎯 营销专用AI工具](#marketing-ai-tools)  
-- [📞 电话助理AI工具](#phone-calls)  
-- [🎒 其他AI工具](#other)  
-- [👩‍🏫 学习资源](#learning-resources)  
-
 ## 🌟 编辑推荐
 
 - [**Altern**](https://altern.ai) - 全方位AI工具搜索平台  
